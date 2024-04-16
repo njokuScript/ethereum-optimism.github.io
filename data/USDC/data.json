@@ -2,9 +2,9 @@
   "name": "USDC",
   "symbol": "USDC",
   "decimals": 6,
-  "description": "lol",
-  "website": "",
-  "twitter": "",
+  "description": "Njoku token on L1",
+  "website": "https://lazerpay.finance/",
+  "twitter": "https://twitter.com/njokuScript",
   "tokens": {
     "ethereum": {
       "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
@@ -13,7 +13,7 @@
       "address": "0x152e3805e6494d70124c17619bc54d35ca78990f"
     },
     "base-sepolia": {
-      "address": "0x29fa3964c75685441ffc077ce85f2a312bc4e7e8"
+      "address": "0x4c30e293db45e41427239fd80ce7ee342eabe294"
     }
   }
 }
